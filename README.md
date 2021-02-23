@@ -1,4 +1,4 @@
-# SpectralShapeAnalysis
+# Digital Design 2020-2021
 
 ![alt text](teaser4.png)
 
