@@ -1,6 +1,6 @@
 # Digital Design 2020-2021
 
-![alt text](teaser4.png)
+![alt text](teaser.png)
 
 
 This is the Repository for the course Digital Design, yields at the University of Verona, from 1st March 2021 to May 2021.
