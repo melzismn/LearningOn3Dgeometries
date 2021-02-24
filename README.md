@@ -5,7 +5,7 @@
 
 This is the Repository for the course Digital Design, yields at the University of Verona, from 1st March 2021 to May 2021.
 
-Lecturer: Simone Melzi https://sites.google.com/site/melzismn/
+Lecturer: Simone Melzi [website](https://sites.google.com/site/melzismn/)
 
 When: Tuesday    15.20 - 17.00
       Wednesday  12.00 - 13.40
