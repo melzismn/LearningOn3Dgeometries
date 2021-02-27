@@ -17,7 +17,7 @@ This is the Repository for the course Digital Design, yields at the University o
 | | |
 Tue 2 Mar | Introduction | [input.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/input.ipynb) | 
 | | |
-Wed 3 Mar | 3D data examples  |  |
+Wed 3 Mar | 3D data examples  | [pca.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/pca.ipynb) |
 | | |
 
 Click on the Binder button above to lunch the environment for the exercises: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melzismn/Digital-Design-2020-2021/master)
