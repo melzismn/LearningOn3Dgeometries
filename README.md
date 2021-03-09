@@ -20,4 +20,4 @@ Mon 8 Mar | Introduction | [input.ipynb](https://github.com/melzismn/Digital-Des
 Wed 10 Mar | 3D data examples  | [pca.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/pca.ipynb) |
 | | |
 
-Click on the Binder button above to lunch the environment for the exercises: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melzismn/Digital-Design-2020-2021/master)
+Click on the following Binder button to lunch the environment for the exercises: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melzismn/Digital-Design-2020-2021/master)
