@@ -27,5 +27,9 @@ Mon 22 Mar | Differential Geometry (1/2) | | | |
 | | |
 Wen 24 Mar | Differential Geometry (2/2) | | | |
 | | |
+Mon 29 Mar | Curvature and Normals | [normals.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/normals.ipynb) | | |
+| | |
+Wen 24 Mar | Laplacian Operators | | | |
+| | |
 
 Click on the following Binder button to lunch the environment for the exercises: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melzismn/Digital-Design-2020-2021/master)
