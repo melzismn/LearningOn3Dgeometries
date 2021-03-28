@@ -9,5 +9,6 @@ dependencies:
   - matplotlib
   - scikit-learn
   - opencv
-  - pyflann
   - open3d
+  - pyflann
+
