@@ -29,7 +29,7 @@ Wen 24 Mar | Differential Geometry (2/2) | | | |
 | | |
 Mon 29 Mar | Curvature | | | |
 | | |
-Wen 24 Mar | Normals | [normals.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/normals.ipynb) | | |
+Wen 31 Mar | Normals | [normals.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/normals.ipynb) | | |
 | | |
 
 Click on the following Binder button to lunch the environment for the exercises: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melzismn/Digital-Design-2020-2021/master)
