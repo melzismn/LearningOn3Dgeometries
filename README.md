@@ -31,5 +31,9 @@ Mon 29 Mar | Curvature | | | |
 | | |
 Wen 31 Mar | Normals | [normals.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/normals.ipynb) | | |
 | | |
+Wen 7 Apr | Graph Laplacian | | | |
+| | |
+Mon 12 Apr | Laplacian | | | |
+| | |
 
 Click on the following Binder button to lunch the environment for the exercises: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melzismn/Digital-Design-2020-2021/master)
