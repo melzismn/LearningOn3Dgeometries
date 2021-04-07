@@ -10,4 +10,3 @@ dependencies:
   - scikit-learn
   - opencv
   - pyflann
-  - cv2
