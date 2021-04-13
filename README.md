@@ -33,7 +33,9 @@ Wen 31 Mar | Normals | [normals.ipynb](https://github.com/melzismn/Digital-Desig
 | | |
 Wen 7 Apr | Graph Laplacian | | | |
 | | |
-Mon 12 Apr | Laplacian Applications | [GraphLaplacian.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/graphLaplacian.ipynb)| | |
+Mon 12 Apr | Laplacian Applications | [GraphLaplacian.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/GraphLaplacian.ipynb)| | |
+| | |
+Wen 4 Apr | LBO | [ShapeLaplacian.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/ShapeLaplacian.ipynb) | | |
 | | |
 
 Click on the following Binder button to lunch the environment for the exercises: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melzismn/Digital-Design-2020-2021/master)
