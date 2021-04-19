@@ -41,7 +41,7 @@ Mon 19 Apr | Distances | [DijkstraShape.ipynb](https://github.com/melzismn/Digit
 | | |
 Wen 21 Apr | 3D Acquisition | | | |
 | | |
-Thu 22 Apr | Seminar: M. Centin | [FARO](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/locandina_seminars.pdf)| [locandina_seminars.pdf](https://www.faro.com/) | (2pm - 4pm)|
+Thu 22 Apr | Seminar: M. Centin | [FARO](https://www.faro.com/)| [locandina_seminars.pdf](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/locandina_seminars.pdf) | (2pm - 4pm)|
 | | |
 Mon 26 Apr | Mesh Semplifiction | | | |
 | | |
