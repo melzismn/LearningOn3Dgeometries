@@ -37,5 +37,18 @@ Mon 12 Apr | Laplacian Applications | [GraphLaplacian.ipynb](https://github.com/
 | | |
 Wen 4 Apr | LBO | [ShapeLaplacian.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/ShapeLaplacian.ipynb) | | |
 | | |
+Mon 19 Apr | Distances | [DijkstraShape.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/DijkstraShape.ipynb)| | |
+| | |
+Wen 21 Apr | 3D Acquisition | | | |
+| | |
+Thu 22 Apr | Seminar: Marco Centin (Faro) | | [locandina_seminars.pdf](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/locandina_seminars.pdf) | (2.00 pm - 16.00 pm)|
+| | |
+Mon 26 Apr | Mesh Semplifiction | | | |
+| | |
+Wen 28 Apr | Mesh Subdivision | | | |
+| | |
+Thu 22 Apr | Seminar: Maurizio Costabeber (DWS Systems) | | [locandina_seminars.pdf](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/locandina_seminars.pdf) | (2.00 pm - 16.00 pm)|
+| | |
+
 
 Click on the following Binder button to lunch the environment for the exercises: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melzismn/Digital-Design-2020-2021/master)
