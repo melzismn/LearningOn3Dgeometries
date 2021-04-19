@@ -47,7 +47,7 @@ Mon 26 Apr | Mesh Semplifiction | | | |
 | | |
 Wen 28 Apr | Mesh Subdivision | | | |
 | | |
-Thu 22 Apr | Seminar: Maurizio Costabeber (DWS Systems) | | [locandina_seminars.pdf](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/locandina_seminars.pdf) | (2.00 pm - 16.00 pm)|
+Thu 29 Apr | Seminar: Maurizio Costabeber (DWS Systems) | | [locandina_seminars.pdf](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/locandina_seminars.pdf) | (2.00 pm - 16.00 pm)|
 | | |
 
 
