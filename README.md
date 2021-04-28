@@ -51,6 +51,6 @@ Thu 29 Apr | Seminar: M. Costabeber | [DWS Systems](https://www.dwssystems.com/)
 | | |
 Mon 3 May | 3D printing |  [Simplification.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/Simplification.ipynb) | [Garland et al. 1997](https://www.cs.cmu.edu/~./garland/Papers/quadrics.pdf)| |
 | | |
-Wen 5 May | Spectral Geometry an introduction | | | |
+Wen 5 May | Spectral Geometry | [LaplacianSmoothing.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/LaplacianSmoothing.ipynb) | | |
 
 Click on the following Binder button to lunch the environment for the exercises: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melzismn/Digital-Design-2020-2021/master)
