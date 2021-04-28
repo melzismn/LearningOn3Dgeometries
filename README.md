@@ -43,15 +43,14 @@ Wen 21 Apr | 3D Acquisition | | | |
 | | |
 Thu 22 Apr | Seminar: M. Centin | [FARO](https://www.faro.com/)| [locandina_seminars.pdf](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/locandina_seminars.pdf) | (2pm - 4pm)|
 | | |
-Mon 26 Apr | Mesh Sampling Simplifiction | [Sampling.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/Sampling.ipynb) | [Garland et al. 1997](https://www.cs.cmu.edu/~./garland/Papers/quadrics.pdf)| |
+Mon 26 Apr | Mesh Sampling Simplifiction | [Sampling.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/Sampling.ipynb) | | |
 | | |
 Wen 28 Apr | Mesh Subdivision | | | |
 | | |
 Thu 29 Apr | Seminar: M. Costabeber | [DWS Systems](https://www.dwssystems.com/) | [locandina_seminars.pdf](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/locandina_seminars.pdf) | (2pm - 4pm)|
 | | |
-Mon 3 May | 3D printing | | | |
+Mon 3 May | 3D printing |  [Simplification.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/Simplification.ipynb) | [Garland et al. 1997](https://www.cs.cmu.edu/~./garland/Papers/quadrics.pdf)| |
 | | |
-wen 5 May | Spectral Geometry | | | |
-| | |
+Wen 5 May | Spectral Geometry an introduction | | | |
 
 Click on the following Binder button to lunch the environment for the exercises: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melzismn/Digital-Design-2020-2021/master)
