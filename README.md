@@ -52,5 +52,17 @@ Thu 29 Apr | Seminar: M. Costabeber | [DWS Systems](https://www.dwssystems.com/)
 Mon 3 May | 3D printing |  [Simplification.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/Simplification.ipynb) | [Garland et al. 1997](https://www.cs.cmu.edu/~./garland/Papers/quadrics.pdf)| |
 | | |
 Wen 5 May | Spectral Geometry | [LaplacianSmoothing.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/LaplacianSmoothing.ipynb) | | |
-
+| | |
+Mon 10 May | Rigid matching |  [icp.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/icp.ipynb) | | |
+| | |
+Wen 12 May | Shape Descriptors | [wks.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/wks.ipynb) | | |
+| | |
+Mon 17 May | Functional Maps |  [fmaps.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/fmaps.ipynb) | [Ovsjanikov et al. 2012](http://www.lix.polytechnique.fr/~maks/papers/obsbg_fmaps.pdf)| |
+| | |
+Wen 19 May | Geometric Deep Learning |  | | |
+| | |
+Mon 24 May | AI and 3D |  | | |
+| | |
+Wen 26 May | Conclusion and Applications |  | | |
+| | |
 Click on the following Binder button to lunch the environment for the exercises: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melzismn/Digital-Design-2020-2021/master)
