@@ -65,4 +65,5 @@ Mon 24 May | AI and 3D |  | | |
 | | |
 Wen 26 May | Conclusion and Applications |  | | |
 | | |
+
 Click on the following Binder button to lunch the environment for the exercises: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melzismn/Digital-Design-2020-2021/master)
