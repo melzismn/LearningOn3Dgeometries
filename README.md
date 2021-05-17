@@ -61,9 +61,9 @@ Mon 17 May | Functional Maps |  [fmaps.ipynb](https://github.com/melzismn/Digita
 | | |
 Wen 19 May | Geometric Deep Learning |  | | |
 | | |
-Mon 24 May | AI and 3D |  | | |
+Mon 24 May | AI and 3D |[pointnet.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/pointnet.ipynb) | [Qi et al. 2017](https://arxiv.org/pdf/1612.00593.pdf)| |
 | | |
-Wen 26 May | Conclusion and Applications |  | | |
+Wen 26 May | Conclusion and Applications | | | |
 | | |
 
 Click on the following Binder button to lunch the environment for the exercises: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melzismn/Digital-Design-2020-2021/master)
