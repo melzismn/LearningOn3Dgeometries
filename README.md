@@ -1,12 +1,12 @@
 # PhD School: Learning On 3D Geometries
-La Statale Università degli Studi di Milano
+UniMi - University of Milan "La Statale" 
 
 ![alt text](teaser.png)
 
 
 This is the Repository for the course Learning On 3D Geometries, yields at the La Statale Università degli Studi di Milano, in September 2021.
 
-**Lecturer:** Simone Melzi [website](https://sites.google.com/site/melzismn/), Marco Tarini [website](http://tarini.di.unimi.it/)
+**Lecturers:** Simone Melzi [website](https://sites.google.com/site/melzismn/), Marco Tarini [website](http://tarini.di.unimi.it/)
 
 **When:** 
 
