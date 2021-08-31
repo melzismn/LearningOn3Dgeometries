@@ -8,7 +8,9 @@ This is the Repository for the course Learning On 3D Geometries, yields at the L
 
 **Lecturer:** Simone Melzi [website](https://sites.google.com/site/melzismn/), Marco Tarini [website](http://tarini.di.unimi.it/)
 
-**When:** Monday 13/09/2021    14.30 - 17.50
+**When:** 
+
+      Monday 13/09/2021    14.30 - 17.50
 
       Wednesday  15/09/2021    14.30 - 17.50
       
