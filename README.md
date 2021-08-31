@@ -10,13 +10,13 @@ This is the Repository for the course Learning On 3D Geometries, yields at the L
 
 **When:** 
 
-      Monday 13/09/2021    14.30 - 17.50
+      Monday 13/09/2021    14.30 - 17.30
 
-      Wednesday  15/09/2021    14.30 - 17.50
+      Wednesday  15/09/2021    14.30 - 17.30
       
-      Thursday  16/09/2021    14.30 - 17.50
+      Thursday  16/09/2021    14.30 - 17.30
       
-      Wednesday  22/09/2021    14.30 - 17.50
+      Wednesday  22/09/2021    14.30 - 17.30
        
 
 
@@ -27,7 +27,7 @@ Mon 13 Sep | Introduction and 3D representations | [input.ipynb](https://github.
 | | |
 Wen 15 Sep | 3D Problems and Application | | |
 | | |
-Thu 16 Mar | Geometric Deep Learning  | | | |
+Thu 16 Sep | Geometric Deep Learning  | | | |
 | | |
 Wen 22 Sep | AI and 3D |[PointNet_Demo.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/PointNet_Demo.ipynb) | [Qi et al. 2017](https://arxiv.org/pdf/1612.00593.pdf)| |
 | | |
