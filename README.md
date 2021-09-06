@@ -20,7 +20,7 @@ This is the Repository for the course Learning On 3D Geometries, yields at the L
        
 
 
-**Date** | **Topic** | **Code & Data** | **Reading** | **Extra**
+**Date** | **Topic** | **Code & Data** | **Reading** | **slides**
 ------------ | ------------- | ------------ | ------------ | ------------
 | | |
 Mon 13 Sep | Introduction and 3D representations | [input.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/input.ipynb) | | |
