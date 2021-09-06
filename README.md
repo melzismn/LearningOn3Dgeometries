@@ -1,7 +1,7 @@
 # PhD School: Learning On 3D Geometries
 UniMi - University of Milan "La Statale" 
 
-![alt text](teaser.png)
+![alt text](teaser_MI.png)
 
 
 This is the Repository for the course Learning On 3D Geometries, yields at the La Statale Università degli Studi di Milano, in September 2021.
