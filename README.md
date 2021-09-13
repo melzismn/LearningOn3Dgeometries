@@ -23,7 +23,7 @@ This is the Repository for the course Learning On 3D Geometries, yields at the L
 **Date** | **Topic** | **Code & Data** | **Reading** | **slides**
 ------------ | ------------- | ------------ | ------------ | ------------
 | | |
-Mon 13 Sep | Introduction and 3D representations | [input.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/input.ipynb) | | |
+Mon 13 Sep | Introduction and 3D representations | [input.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/input.ipynb) | | [introAI.pdf](https://github.com/melzismn/LearningOn3Dgeometries//blob/master/slides/L1 - Intro AI and Deep Learning.pdf)|
 | | |
 Wen 15 Sep | 3D Problems and Application | | |
 | | |
