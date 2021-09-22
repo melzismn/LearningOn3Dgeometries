@@ -29,7 +29,7 @@ Wen 15 Sep | 3D Problems and Application | | [GeoPro.pdf](https://github.com/mel
 | | |
 Thu 16 Sep | Geometric Deep Learning  | | [3D-AI.pdf](https://github.com/melzismn/LearningOn3Dgeometries/blob/c284267f5441b1067f4a86261a9ee9719db5b197/slides/3D%20AI%20and%20Deep%20Leraning.pdf)|
 | | |
-Wen 22 Sep | AI and 3D |[PointNet_Demo.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/PointNet_Demo.ipynb) | [Qi et al. 2017](https://arxiv.org/pdf/1612.00593.pdf)| |
+Wen 22 Sep | AI and 3D |[PointNet_Demo.ipynb](https://github.com/melzismn/Digital-Design-2020-2021/blob/master/PointNet_Demo.ipynb) | [Qi et al. 2017](https://arxiv.org/pdf/1612.00593.pdf)|  [PointNet.pdf](https://github.com/melzismn/LearningOn3Dgeometries/blob/a5d48918ca5d3982b18ef74f9f60a22b5b54b133/slides/PointNet.pdf)|
 | |
 
 Click on the following Binder button to lunch the environment for the exercises: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melzismn/LearningOn3Dgeometries/master)
